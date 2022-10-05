@@ -27,7 +27,7 @@ var myQuestions = [
 		correctAnswer: 'c'
 	},
     {
-		question: "When did the first Freddy Krueger come out",
+		question: "When did the first Freddy Krueger come out?",
 		answers: {
 			a: '1999',
 			b: '1984',
